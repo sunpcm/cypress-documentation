@@ -308,7 +308,7 @@ describe('if your app uses jQuery', function () {
 
 ## 断言风格
 
-Cypress支持BDD (`expect`/`should`) 和 TDD (`assert`) 风格断言。 {% url "阅读更过断言的内容" assertions %}
+Cypress支持BDD (`expect`/`should`) 和 TDD (`assert`) 风格断言。 {% url "阅读更多风格断言的内容" assertions %}
 
 ```javascript
 it('can add numbers', function() {
